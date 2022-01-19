@@ -20,5 +20,6 @@ git clone --single-branch -b ARM https://github.com/monkins1010/ccminer.git
 nano mn.sh
 /home/itotodidak/ccminer/ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RY6dbEBkkFNKx3v6rsydH3Qmpgtz9PJyav.STBHEBAT -p x -t 4
 crontab -e
-@reboot bash /home/itotodidak/ccminer/mn.sh > /home/itotodidak/ccminer/miner.log 2>&1
-htop
+@reboot bash /home/itotodidak/ccminer/mn.sh > /home/itotodidak/ccminer/miner.log 2>&1 htop
+
+RA7hGnGr9rtNiWxijNdNZvJQVd8WEUStUM
