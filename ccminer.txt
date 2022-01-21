@@ -23,3 +23,7 @@ crontab -e
 @reboot bash /home/itotodidak/ccminer/mn.sh > /home/itotodidak/ccminer/miner.log 2>&1 htop
 
 RA7hGnGr9rtNiWxijNdNZvJQVd8WEUStUM
+
+
+
+-a verus -o stratum+tcp://verushash.asia.mine.zergpool.com:3300 -u DQisN4ApZX5pUdRGnKvtgtj1enQL86tArS -p  c=DOGE,mc=VRSC,m=party.Mung,ID=STB1
